@@ -1,6 +1,7 @@
 # c-pong-game
 
 Console turn-based Ping Pong game
+*Project date: 08-2023*
 
 ***== The program src/pong.c is a training project to reinforce the skills of structural programming in C, namely a game for two 
 similar to the game "Pong". Only the character (ASCII) graphics are used to display 
@@ -24,4 +25,4 @@ graphics (with output to the terminal). The game is implemented as a step-by-ste
 
 ***When one of the players scores 21 points, congratulations to the winner are displayed on the screen and the game ends.==***
 
-Build the project via Makefile in the src folder - 'make'
+Build the project via Makefile in the src folder - *make*
