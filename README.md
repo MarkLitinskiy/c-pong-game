@@ -25,4 +25,6 @@ graphics (with output to the terminal). The game is implemented as a step-by-ste
 
 ***When one of the players scores 21 points, congratulations to the winner are displayed on the screen and the game ends.==***
 
-Build the project via Makefile in the src folder - *make*
+### Project build
+
+The project is build through a Makefile in the src folder with the command *make*
