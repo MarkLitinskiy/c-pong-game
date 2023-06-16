@@ -1,7 +1,7 @@
 # c-pong-game
 
-Console turn-based Ping Pong game
-*Project date: 08-2023*
+Console turn-based Ping Pong game  
+*Project date: 08-2022*
 
 ***== The program src/pong.c is a training project to reinforce the skills of structural programming in C, namely a game for two 
 similar to the game "Pong". Only the character (ASCII) graphics are used to display 
