@@ -7,6 +7,8 @@ Console turn-based Ping Pong game
 similar to the game "Pong". Only the character (ASCII) graphics are used to display 
 graphics (with output to the terminal). The game is implemented as a step-by-step game in the standard <stdio.h> library.***
 
+![game](screenshots/game.png)
+
 * ***Keys***:
 
 ***A/Z and K/M - to move the rackets;***
